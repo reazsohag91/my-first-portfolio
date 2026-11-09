@@ -27,14 +27,14 @@ font-weight: 900;
 header {
     background-color: #FFF8F3;
     background-image: url(../images/developer.png),url(../images/header_bg.png);
-    background-position: top left,bottom right ;
+    background-position: 23px 38px,bottom right ;
     background-repeat: no-repeat;
     padding-top: 50px;
 
 }
 nav{
-    width:92%;
-    max-width: 1240px;
+    width: 71%;
+    max-width: 1140px;
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
@@ -123,8 +123,8 @@ margin:0 0 5px 0;
 }
 
 #about .about-container {
-    width: 92%;
-    max-width: 1240px;
+    width: 71%;
+    max-width: 1140px;
     margin: 0 auto;
     text-align: center;
     background-color: #FFF8F3;
@@ -152,8 +152,8 @@ margin:0 0 5px 0;
 
 
 #skills .skills-container {
-    width: 92%;
-    max-width: 1240px;
+    width: 71%;
+    max-width: 1140px;
     margin: 0 auto;
 }
 
@@ -190,8 +190,8 @@ margin:0 0 5px 0;
 }
 
 #resume .resume-container {
-    width: 92%;
-    max-width: 1240px;
+    width: 71%;
+    max-width: 1140px;
     margin: 113px auto 0;
     display: flex;
     gap: 24px;
@@ -239,8 +239,8 @@ footer{
 }
 
 footer .footer-container{
-    width: 92%;
-    max-width: 1240px;
+    width: 71%;
+    max-width: 1140px;
     margin: 0 auto;
     display: flex;
     gap: 116px;
